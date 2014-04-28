@@ -1,4 +1,20 @@
-﻿//Comment out this line to not update the hash rate.
+/*
+ *
+ * Richard Hartness (RLH), (c) 2014
+ * What code I've written can be copied, modified and distributed
+ * as desired.  I just request that if this is used, please provide credit, 
+ * where credit is due.
+ * 
+ * If you found this useful, please send donations to:
+ * 
+ * Nxt:  1102622531
+ * BTC:  1Mhk5aKnE6jN7yafQXCdDDm8T9Qoy2sTqS
+ * LTC:  LKTF6AjzFj2CG81rQravs164VsoJJnEPmm
+ * DOGE: DGea4Qev7eJGmohWq2iKSeDkrTsPeYXQAC
+ * 
+ */
+ 
+//Comment out this line to not update the hash rate.
 #define BENCHMARK
 
 using System;

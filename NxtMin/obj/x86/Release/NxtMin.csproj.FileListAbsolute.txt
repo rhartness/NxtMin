@@ -1,0 +1,5 @@
+Y:\Copy\Projects\CryptoCurrency\Nxt\NxtMin\NxtMin\bin\Release\NxtMin.exe
+Y:\Copy\Projects\CryptoCurrency\Nxt\NxtMin\NxtMin\bin\Release\NxtMin.pdb
+Y:\Copy\Projects\CryptoCurrency\Nxt\NxtMin\NxtMin\obj\x86\Release\NxtMin.exe
+Y:\Copy\Projects\CryptoCurrency\Nxt\NxtMin\NxtMin\obj\x86\Release\NxtMin.pdb
+Y:\Copy\Projects\CryptoCurrency\Nxt\NxtMin\NxtMin\obj\x86\Release\NxtMin.csprojResolveAssemblyReference.cache

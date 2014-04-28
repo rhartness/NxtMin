@@ -1,0 +1,6 @@
+C:\Personal\NxtMin\NxtMin\bin\Debug\NxtMin.exe
+C:\Personal\NxtMin\NxtMin\bin\Debug\NxtMin.pdb
+C:\Personal\NxtMin\NxtMin\obj\x86\Debug\NxtMin.exe
+C:\Personal\NxtMin\NxtMin\obj\x86\Debug\NxtMin.pdb
+Y:\Copy\Projects\CryptoCurrency\Nxt\NxtMin\NxtMin\obj\x86\Debug\NxtMin.exe
+Y:\Copy\Projects\CryptoCurrency\Nxt\NxtMin\NxtMin\obj\x86\Debug\NxtMin.pdb

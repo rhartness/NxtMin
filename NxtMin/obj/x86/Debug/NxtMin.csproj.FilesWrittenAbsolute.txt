@@ -1,0 +1,5 @@
+/Users/rlh/Copy/Projects/CryptoCurrency/Nxt/NxtMin/NxtMin/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/rlh/Copy/Projects/CryptoCurrency/Nxt/NxtMin/NxtMin/bin/Debug/NxtMin.exe.mdb
+/Users/rlh/Copy/Projects/CryptoCurrency/Nxt/NxtMin/NxtMin/bin/Debug/NxtMin.exe
+/Users/rlh/Copy/Projects/CryptoCurrency/Nxt/NxtMin/NxtMin/obj/x86/Debug/NxtMin.exe
+/Users/rlh/Copy/Projects/CryptoCurrency/Nxt/NxtMin/NxtMin/obj/x86/Debug/NxtMin.exe.mdb
